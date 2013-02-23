@@ -1,0 +1,712 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SistemadeInventarioyFacturación
+</name>
+</assembly>
+<members>
+<member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet3.dbo_ServicioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet3.dbo_ServicioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet3.dbo_ServicioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet3TableAdapters.dbo_ServicioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(Sistema_de_Inventario_y_Facturación._DivalI_FDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(Sistema_de_Inventario_y_Facturación._DivalI_FDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(Sistema_de_Inventario_y_Facturación._DivalI_FDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet3TableAdapters.TableAdapterManager.UpdateAll(Sistema_de_Inventario_y_Facturación._DivalI_FDataSet3)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet3TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet2.dbo_ProductoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet2.dbo_ProductoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet2.dbo_ProductoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet2TableAdapters.dbo_ProductoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(Sistema_de_Inventario_y_Facturación._DivalI_FDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(Sistema_de_Inventario_y_Facturación._DivalI_FDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(Sistema_de_Inventario_y_Facturación._DivalI_FDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet2TableAdapters.TableAdapterManager.UpdateAll(Sistema_de_Inventario_y_Facturación._DivalI_FDataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet1.dbo_EmpleadoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet1.dbo_EmpleadoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet1.dbo_EmpleadoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet1TableAdapters.dbo_EmpleadoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Sistema_de_Inventario_y_Facturación._DivalI_FDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Sistema_de_Inventario_y_Facturación._DivalI_FDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Sistema_de_Inventario_y_Facturación._DivalI_FDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet1TableAdapters.TableAdapterManager.UpdateAll(Sistema_de_Inventario_y_Facturación._DivalI_FDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet.dbo_MueblesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet.dbo_MueblesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet.dbo_MueblesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSetTableAdapters.dbo_MueblesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Sistema_de_Inventario_y_Facturación._DivalI_FDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Sistema_de_Inventario_y_Facturación._DivalI_FDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Sistema_de_Inventario_y_Facturación._DivalI_FDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Sistema_de_Inventario_y_Facturación._DivalI_FDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Sistema_de_Inventario_y_Facturación._DivalI_FDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Sistema_de_Inventario_y_Facturación._DivalI_FDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Sistema_de_Inventario_y_Facturación._DivalI_FDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Sistema_de_Inventario_y_Facturación._DivalI_FDataSetTableAdapters.TableAdapterManager.UpdateAll(Sistema_de_Inventario_y_Facturación._DivalI_FDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._DivalI_FDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetGanancias_E.dbo_Empleado_GananciasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetGanancias_E.dbo_Empleado_GananciasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetGanancias_E.dbo_Empleado_GananciasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetGanancias_E">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetServicioCO.dbo_ServicioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetServicioCO.dbo_ServicioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetServicioCO.dbo_ServicioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetServicioCO">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetCliente.ClienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetCliente.ClienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetCliente.ClienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetCliente">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetProducto2.dbo_ProductoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetProducto2.dbo_ProductoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetProducto2.dbo_ProductoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetProducto2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetServicio1.ServicioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetServicio1.ServicioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetServicio1.ServicioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetServicio1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSet1.dbo_ProductoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSet1.dbo_ProductoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSet1.dbo_ProductoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._Base_Dival_I_FDataSet.EmpleadoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._Base_Dival_I_FDataSet.dbo_EmpleadoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._Base_Dival_I_FDataSet.EmpleadoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._Base_Dival_I_FDataSet.dbo_EmpleadoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._Base_Dival_I_FDataSet.EmpleadoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._Base_Dival_I_FDataSet.dbo_EmpleadoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._Base_Dival_I_FDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._Base_Dival_I_FDataSetTableAdapters.EmpleadoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Sistema_de_Inventario_y_Facturación._Base_Dival_I_FDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Sistema_de_Inventario_y_Facturación._Base_Dival_I_FDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Sistema_de_Inventario_y_Facturación._Base_Dival_I_FDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Sistema_de_Inventario_y_Facturación._Base_Dival_I_FDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Sistema_de_Inventario_y_Facturación._Base_Dival_I_FDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Sistema_de_Inventario_y_Facturación._Base_Dival_I_FDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Sistema_de_Inventario_y_Facturación._Base_Dival_I_FDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Sistema_de_Inventario_y_Facturación._Base_Dival_I_FDataSetTableAdapters.TableAdapterManager.UpdateAll(Sistema_de_Inventario_y_Facturación._Base_Dival_I_FDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._Base_Dival_I_FDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._Base_Dival_I_FDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación._Base_Dival_I_FDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetMuebles.MueblesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetMuebles.MueblesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetMuebles.MueblesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetMuebles">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:Sistema_de_Inventario_y_Facturación.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:Sistema_de_Inventario_y_Facturación.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso con establecimiento inflexible de tipos.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.My.Resources.Resources">
+	<summary>
+  Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetProduccion.dbo_Registro_ProduccionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetProduccion.dbo_Registro_ProduccionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetProduccion.dbo_Registro_ProduccionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetProduccion">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetServicioC.ServicioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetServicioC.ServicioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetServicioC.ServicioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetServicioC">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetServicioo.dbo_ServicioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetServicioo.dbo_ServicioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetServicioo.dbo_ServicioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetServicioo">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetEmpleado_Ganancias.dbo_Empleado_GananciasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetEmpleado_Ganancias.dbo_Empleado_GananciasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetEmpleado_Ganancias.dbo_Empleado_GananciasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetEmpleado_Ganancias">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetES.Empleado_ServicioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetES.Empleado_ServicioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetES.Empleado_ServicioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetES">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetRegistroProduccion.Registro_ProduccionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetRegistroProduccion.Registro_ProduccionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetRegistroProduccion.Registro_ProduccionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetRegistroProduccion">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetInicioSesion.dbo_UsuarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetInicioSesion.dbo_UsuarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetInicioSesion.dbo_UsuarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetInicioSesion">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetEmpleado.dbo_EmpleadoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetEmpleado.dbo_EmpleadoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetEmpleado.dbo_EmpleadoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetEmpleado">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetProducto.dbo_ProductoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetProducto.dbo_ProductoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetProducto.dbo_ProductoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetProducto">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetRecuperarP.dbo_UsuarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetRecuperarP.dbo_UsuarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetRecuperarP.dbo_UsuarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetRecuperarP">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetProducto3.dbo_ProductoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetProducto3.dbo_ProductoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetProducto3.dbo_ProductoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetProducto3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetServicio2.ServicioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetServicio2.ServicioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetServicio2.ServicioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetServicio2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetServicio5.dbo_ServicioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetServicio5.dbo_ServicioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetServicio5.dbo_ServicioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetServicio5">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetEmpleadoCO.dbo_EmpleadoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetEmpleadoCO.dbo_EmpleadoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetEmpleadoCO.dbo_EmpleadoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetEmpleadoCO">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetEmpleadoo.dbo_EmpleadoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetEmpleadoo.dbo_EmpleadoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetEmpleadoo.dbo_EmpleadoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetEmpleadoo">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetMuebles1.dbo_MueblesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetMuebles1.dbo_MueblesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetMuebles1.dbo_MueblesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetMuebles1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetRegistroProduccionCO.dbo_Registro_ProduccionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetRegistroProduccionCO.dbo_Registro_ProduccionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetRegistroProduccionCO.dbo_Registro_ProduccionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetRegistroProduccionCO">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetRegistroUsuario.dbo_UsuarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetRegistroUsuario.dbo_UsuarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetRegistroUsuario.dbo_UsuarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetRegistroUsuario">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetEmpleadoC.EmpleadoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetEmpleadoC.EmpleadoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetEmpleadoC.EmpleadoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistema_de_Inventario_y_Facturación.DataSetEmpleadoC">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

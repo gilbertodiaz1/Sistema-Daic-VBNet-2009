@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetES" targetNamespace="http://tempuri.org/DataSetES.xsd" xmlns:mstns="http://tempuri.org/DataSetES.xsd" xmlns="http://tempuri.org/DataSetES.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetES" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSetES" msprop:Generator_DataSetName="DataSetES">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Empleado_Servicio" msprop:Generator_UserTableName="Empleado_Servicio" msprop:Generator_RowDeletedName="Empleado_ServicioRowDeleted" msprop:Generator_TableClassName="Empleado_ServicioDataTable" msprop:Generator_RowChangedName="Empleado_ServicioRowChanged" msprop:Generator_RowClassName="Empleado_ServicioRow" msprop:Generator_RowChangingName="Empleado_ServicioRowChanging" msprop:Generator_RowEvArgName="Empleado_ServicioRowChangeEvent" msprop:Generator_RowEvHandlerName="Empleado_ServicioRowChangeEventHandler" msprop:Generator_TablePropName="Empleado_Servicio" msprop:Generator_TableVarName="tableEmpleado_Servicio" msprop:Generator_RowDeletingName="Empleado_ServicioRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Cedula_E" msprop:Generator_UserColumnName="Cedula_E" msprop:Generator_ColumnPropNameInRow="Cedula_E" msprop:Generator_ColumnVarNameInTable="columnCedula_E" msprop:Generator_ColumnPropNameInTable="Cedula_EColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="8" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Codigo_Servicio" msprop:Generator_UserColumnName="Codigo_Servicio" msprop:Generator_ColumnPropNameInRow="Codigo_Servicio" msprop:Generator_ColumnVarNameInTable="columnCodigo_Servicio" msprop:Generator_ColumnPropNameInTable="Codigo_ServicioColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="6" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Porcentaje_Ganancia" msprop:Generator_UserColumnName="Porcentaje_Ganancia" msprop:Generator_ColumnPropNameInRow="Porcentaje_Ganancia" msprop:Generator_ColumnVarNameInTable="columnPorcentaje_Ganancia" msprop:Generator_ColumnPropNameInTable="Porcentaje_GananciaColumn" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Empleado_Servicio" />
+      <xs:field xpath="mstns:Cedula_E" />
+      <xs:field xpath="mstns:Codigo_Servicio" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

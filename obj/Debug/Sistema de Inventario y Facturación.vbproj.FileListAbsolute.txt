@@ -1,0 +1,231 @@
+C:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.exe
+C:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.pdb
+C:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.xml
+C:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\ResolveAssemblyReference.cache
+C:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Inicio_Sesion.resources
+C:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Resources.resources
+C:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Registro_usuario.resources
+C:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.vbproj.GenerateResource.Cache
+C:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.exe
+C:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.xml
+C:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.pdb
+D:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.exe
+D:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.xml
+D:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.pdb
+D:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.exe
+D:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.pdb
+D:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.xml
+D:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\ResolveAssemblyReference.cache
+D:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Inicio_Sesion.resources
+D:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Resources.resources
+D:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Registro_usuario.resources
+D:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.vbproj.GenerateResource.Cache
+D:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Menu_Principal.resources
+D:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Recuperar_Password.resources
+D:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Registro_Cliente.resources
+D:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Prueba.resources
+D:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Registro_Empleado.resources
+D:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Form1.resources
+C:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Form1.resources
+C:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Menu_Principal.resources
+C:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Recuperar_Password.resources
+C:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Registro_Cliente.resources
+C:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Registro_Empleado.resources
+C:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Producto.resources
+C:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Servicio.resources
+C:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.exe.config
+C:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Consulta_Produccion.resources
+C:\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Reporte_E.resources
+C:\Documents and Settings\Gilberto\Escritorio\Nueva carpeta (2)\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.exe.config
+C:\Documents and Settings\Gilberto\Escritorio\Nueva carpeta (2)\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.exe
+C:\Documents and Settings\Gilberto\Escritorio\Nueva carpeta (2)\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.xml
+C:\Documents and Settings\Gilberto\Escritorio\Nueva carpeta (2)\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.pdb
+C:\Documents and Settings\Gilberto\Escritorio\Nueva carpeta (2)\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.exe
+C:\Documents and Settings\Gilberto\Escritorio\Nueva carpeta (2)\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.pdb
+C:\Documents and Settings\Gilberto\Escritorio\Nueva carpeta (2)\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.xml
+C:\Documents and Settings\Gilberto\Escritorio\Nueva carpeta (2)\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gilberto\Escritorio\Nueva carpeta (2)\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Consulta_Produccion.resources
+C:\Documents and Settings\Gilberto\Escritorio\Nueva carpeta (2)\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Form1.resources
+C:\Documents and Settings\Gilberto\Escritorio\Nueva carpeta (2)\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Inicio_Sesion.resources
+C:\Documents and Settings\Gilberto\Escritorio\Nueva carpeta (2)\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Menu_Principal.resources
+C:\Documents and Settings\Gilberto\Escritorio\Nueva carpeta (2)\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Resources.resources
+C:\Documents and Settings\Gilberto\Escritorio\Nueva carpeta (2)\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Producto.resources
+C:\Documents and Settings\Gilberto\Escritorio\Nueva carpeta (2)\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Recuperar_Password.resources
+C:\Documents and Settings\Gilberto\Escritorio\Nueva carpeta (2)\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Registro_Cliente.resources
+C:\Documents and Settings\Gilberto\Escritorio\Nueva carpeta (2)\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Registro_Empleado.resources
+C:\Documents and Settings\Gilberto\Escritorio\Nueva carpeta (2)\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Registro_usuario.resources
+C:\Documents and Settings\Gilberto\Escritorio\Nueva carpeta (2)\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Reporte_E.resources
+C:\Documents and Settings\Gilberto\Escritorio\Nueva carpeta (2)\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Servicio.resources
+C:\Documents and Settings\Gilberto\Escritorio\Nueva carpeta (2)\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Gilberto\Escritorio\Nueva carpeta (2)\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Reporte_P.resources
+C:\Documents and Settings\Gilberto\Escritorio\Nueva carpeta (2)\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Muebles.resources
+C:\Documents and Settings\Gilberto\Escritorio\Nueva carpeta (2)\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Reporte_A.resources
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.exe.config
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.exe
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.pdb
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.xml
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Consulta_Produccion.resources
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Muebles.resources
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Form1.resources
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Inicio_Sesion.resources
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Menu_Principal.resources
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Resources.resources
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Producto.resources
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Recuperar_Password.resources
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Registro_Cliente.resources
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Registro_Empleado.resources
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Registro_usuario.resources
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Reporte_A.resources
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Reporte_E.resources
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Reporte_P.resources
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Servicio.resources
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.exe
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.xml
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.pdb
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Empleado_Ganancias.resources
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Reporte_Servicio.resources
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.exe.manifest
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.application
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.exe.manifest
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.application
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación Ultima Modificacion\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.exe.config
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación Ultima Modificacion\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.exe
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación Ultima Modificacion\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.xml
+C:\Documents and Settings\Evelin\Escritorio\Sistema de Inventario y Facturación Ultima Modificacion\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.pdb
+E:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.exe.config
+E:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.exe
+E:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.xml
+E:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.pdb
+E:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.exe.manifest
+E:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.application
+E:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.exe
+E:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.pdb
+E:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.xml
+E:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\ResolveAssemblyReference.cache
+E:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Consulta_Produccion.resources
+E:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Empleado_Ganancias.resources
+E:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Muebles.resources
+E:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Form1.resources
+E:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Inicio_Sesion.resources
+E:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Menu_Principal.resources
+E:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Resources.resources
+E:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Producto.resources
+E:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Recuperar_Password.resources
+E:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Registro_Cliente.resources
+E:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Registro_Empleado.resources
+E:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Registro_usuario.resources
+E:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Reporte_A.resources
+E:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Reporte_E.resources
+E:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Reporte_P.resources
+E:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Reporte_Servicio.resources
+E:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Servicio.resources
+E:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.vbproj.GenerateResource.Cache
+E:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.exe.manifest
+E:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.application
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.exe.config
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.exe
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.xml
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.pdb
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.exe.manifest
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.application
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.exe
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.pdb
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.xml
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\ResolveAssemblyReference.cache
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Consulta_Produccion.resources
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Empleado_Ganancias.resources
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Muebles.resources
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Inicio_Sesion.resources
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Menu_Principal.resources
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Resources.resources
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Producto.resources
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Recuperar_Password.resources
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Registro_Cliente.resources
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Registro_Empleado.resources
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Registro_usuario.resources
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Reporte_A.resources
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Reporte_E.resources
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Reporte_P.resources
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Reporte_Servicio.resources
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Servicio.resources
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.vbproj.GenerateResource.Cache
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.exe.manifest
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.application
+C:\Users\GETECH\Desktop\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.exe.config
+C:\Users\GETECH\Desktop\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.exe
+C:\Users\GETECH\Desktop\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.xml
+C:\Users\GETECH\Desktop\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.pdb
+C:\Users\GETECH\Desktop\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\DivalI&F.accdb
+C:\Users\GETECH\Desktop\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.exe.manifest
+C:\Users\GETECH\Desktop\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.application
+C:\Users\GETECH\Desktop\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.exe
+C:\Users\GETECH\Desktop\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.pdb
+C:\Users\GETECH\Desktop\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.xml
+C:\Users\GETECH\Desktop\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GETECH\Desktop\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Consulta_Produccion.resources
+C:\Users\GETECH\Desktop\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Empleado_Ganancias.resources
+C:\Users\GETECH\Desktop\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Muebles.resources
+C:\Users\GETECH\Desktop\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Inicio_Sesion.resources
+C:\Users\GETECH\Desktop\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Menu_Principal.resources
+C:\Users\GETECH\Desktop\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Resources.resources
+C:\Users\GETECH\Desktop\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Producto.resources
+C:\Users\GETECH\Desktop\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Recuperar_Password.resources
+C:\Users\GETECH\Desktop\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Registro_Cliente.resources
+C:\Users\GETECH\Desktop\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Registro_Empleado.resources
+C:\Users\GETECH\Desktop\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Registro_usuario.resources
+C:\Users\GETECH\Desktop\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Reporte_A.resources
+C:\Users\GETECH\Desktop\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Reporte_E.resources
+C:\Users\GETECH\Desktop\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Reporte_P.resources
+C:\Users\GETECH\Desktop\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Reporte_Servicio.resources
+C:\Users\GETECH\Desktop\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Servicio.resources
+C:\Users\GETECH\Desktop\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.vbproj.GenerateResource.Cache
+C:\Users\GETECH\Desktop\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.exe.manifest
+C:\Users\GETECH\Desktop\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.application
+C:\Users\GETECH\Desktop\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Registro_prodcuccion.resources
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\DivalI&F.accdb
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Registro_prodcuccion.resources
+C:\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Reportes.resources
+E:\Respaldo D\Documentos\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.exe.config
+E:\Respaldo D\Documentos\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.exe
+E:\Respaldo D\Documentos\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.xml
+E:\Respaldo D\Documentos\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.pdb
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.exe.config
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.exe
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.xml
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.pdb
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\DivalI&F.accdb
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.exe.manifest
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.application
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.exe
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.pdb
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Sistema de Inventario y Facturación.xml
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\office.dll
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\bin\Debug\office.xml
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Consulta_Produccion.resources
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Empleado_Ganancias.resources
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Muebles.resources
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Inicio_Sesion.resources
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Menu_Principal.resources
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Resources.resources
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Producto.resources
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Recuperar_Password.resources
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Registro_Cliente.resources
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Registro_Empleado.resources
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Registro_prodcuccion.resources
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Registro_usuario.resources
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Reportes.resources
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Reporte_A.resources
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Reporte_E.resources
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Reporte_P.resources
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Reporte_Servicio.resources
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema_de_Inventario_y_Facturación.Servicio.resources
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.exe.manifest
+C:\Users\Evelin\Desktop\SISTEMA DAIC\SISTEMA DAIC\Sistema de Inventario y Facturación\Sistema de Inventario y Facturación\obj\Debug\Sistema de Inventario y Facturación.application
